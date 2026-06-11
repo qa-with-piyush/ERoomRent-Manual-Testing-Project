@@ -95,6 +95,13 @@ ERoomRent – Online Property Rental Platform
 
 ---
 
+## Defect Tracking
+
+Jira was used to manage and track defects throughout the testing lifecycle.
+
+Project Board:
+(https://piyushb6263.atlassian.net/jira/software/projects/ERR/boards/68?atlOrigin=eyJpIjoiM2YxNDMzNmRlYmIwNDRkODgwMjA1OGRhNDk0NDNkODkiLCJwIjoiaiJ9)
+
 ### Author
 
 Piyush Bhagchandani
